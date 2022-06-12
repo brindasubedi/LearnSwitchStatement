@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(230, 140, 174);
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+
+#new{
+    border-radius: 5%;
+    padding: 10px;
+    border: green 5px solid;
+    
+}
